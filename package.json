@@ -1,0 +1,17 @@
+{
+  "name": "LeapToHue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cylon": "^1.0.0",
+    "cylon-leapmotion": "^0.18.0",
+    "cylon-hue": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
